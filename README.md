@@ -51,7 +51,6 @@ Dataset size:
 
 ### Development Environment
 - Jupyter Notebook
-- VS Code
 
 ---
 
